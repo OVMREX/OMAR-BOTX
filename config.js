@@ -63,8 +63,8 @@ global.dygp = 'https://whatsapp.com/channel/0029VaPj1XN2975EPpWx4p27'
 global.fgsc = 'https://github.com/OMARCHARAF0' 
 global.fgyt = 'https://whatsapp.com/channel/0029VaPj1XN2975EPpWx4p27'
 global.fgpyp = 'https://whatsapp.com/channel/0029VaPj1XN2975EPpWx4p27'
-global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.fglog = 'OMAR.jpg' 
+global.thumb = fs.readFileSync('./OMAR.jpg')
 
 global.wait = ('> |🏃🏻... *سوف يتم تلبية طلبك..* \n *قم بالإنظمام لمجموعتنا لتحصل على جديد البوتات*\n https://chat.whatsapp.com/K6V9If35p3HAWfUjtEECVt')
 //global.wait = ('> |🏃🏻... *سوف يتم تلبية طلبك..* \n  *تابع صانع البوت في إنستجرام ✅*\n \n https://www.instagram.com/ovmar_1')
