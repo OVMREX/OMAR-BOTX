@@ -43,7 +43,7 @@ Salman amand & Abraham Dwamena
  *_ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ    ˢʰᵃʳᵉ_*
 `.trim())
 handler.help = ['gpguru']
-handler.tags = ['main']
+handler.tags = ['قائمة المجموعات']
 handler.command = ['groups', 'groupguru', 'gugp', 'ggp', 'gpguru'] 
 
 export default handler
